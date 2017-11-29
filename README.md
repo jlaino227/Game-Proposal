@@ -2,8 +2,8 @@
 News Game, Pt. 2
 News Game Proposal 
 
-For my new game project, I plan on doing something that relates to the debate for and against the construction of a wall between Mexico and the US. I’m planning on creating a game similar to brick breaker. The bricks will represent the wall. For the ball and paddle, it will represent the party who opposes the construction of a wall. Most likely a Democratic flag and logo for the ball. There will be text to represent each side, Mexico and the US. Also, images of immigrants will be on the Mexico side. The game represents that there is 2 strong sides in America about building a wall and is a modern political issue. 
+For my new game, I'm calling it Round 'Em Up. The idea of the game is to collect the imagrents. So the sprite represents the US border control and the coins represent the imagrents. The idea of the game is to round them up, then you win.
 
-The political topic in the game will revolve around the current issue of building a wall between Mexico and the US. The idea of this game is goping to very minimal and simple. There is levels and lives in the game. This represents that there is more supposrt for building the wall in America. As the levels progress, more bricks are added showing that there is more support for the wall, even if the oposing party is destroying some of the ideas. (represented by the bricks)
+The politcal issue that is brought up by this is that should the US border patrol take away imagrents that try to get across the border. 
 
-Over time, the ball moves faster resprsenti the democrats strugging to not have a wall built. Also, some of the bricks drop the text "<=>" to repesnet a supporter gained for the democratic side. The object of the game is to try to get as far as you can into the levels by keep on destroying bricks. You cannot win the game, because there is more people who think that there should be a wall therefore, Trump is president and he does not like the idea of no wall. 
+I reserched this topic and found that there was a new study that saif that the number of illegal imagrents that try to jump the border has decreased to 170,000 per year. (2015) This is one tenth what it was in 2005. So, that makes this game revalvant. 
