@@ -1,5 +1,6 @@
 # Game-Proposal
 News Game, Pt. 2
+
 News Game Proposal 
 
 For my new game, I'm calling it Round 'Em Up. The idea of the game is to collect the imagrents. So the sprite represents the US border control and the coins represent the imagrents. The idea of the game is to round them up, then you win.
